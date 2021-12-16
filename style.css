@@ -1,0 +1,27 @@
+img.main {
+    height: auto;
+    width: 300px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: "Brush Script MT", cursive, sans-serif;
+    color:white;
+}
+
+p,
+ul,
+h2,
+h3,
+h4,
+a,
+ol {
+    color:white;
+    font-family: sans-serif;
+}
+body {
+    background-color:#808080;
+}
